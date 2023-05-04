@@ -1,1 +1,1 @@
-# BasicFlutterProject
+# Bible Quote Application
