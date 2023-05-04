@@ -21,7 +21,7 @@ extension Queue on List {
 }
 
 extension ProperCase on String {
-  asProperCase() {
+  toProperCase() {
     return characters.first.toUpperCase() + toString().substring(1,length);
   }
 }
