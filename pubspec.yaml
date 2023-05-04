@@ -58,6 +58,94 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  fonts:
+    - family: BrunoAceSC
+      fonts:
+        - asset: res/fonts/bruno_ace_sc/BrunoAceSC-Regular.ttf
+    - family: ComicMono
+      fonts:
+        - asset: res/fonts/comic_mono/ComicMono-Regular.ttf
+        - asset: res/fonts/comic_mono/ComicMono-Bold.ttf
+    - family: Poppins
+      fonts:
+        - asset: res/fonts/poppins/Poppins-Black.ttf
+        - asset: res/fonts/poppins/Poppins-Medium.ttf
+        - asset: res/fonts/poppins/Poppins-Regular.ttf
+        - asset: res/fonts/poppins/Poppins-Thin.ttf
+    - family: Comfortaa
+      fonts:
+        - asset: res/fonts/comfortaa/Comfortaa-Bold.ttf
+        - asset: res/fonts/comfortaa/Comfortaa-Light.ttf
+        - asset: res/fonts/comfortaa/Comfortaa-Medium.ttf
+        - asset: res/fonts/comfortaa/Comfortaa-Regular.ttf
+        - asset: res/fonts/comfortaa/Comfortaa-SemiBold.ttf
+    - family: Foldit
+      fonts:
+        - asset: res/fonts/foldit/Foldit-Black.ttf
+        - asset: res/fonts/foldit/Foldit-Bold.ttf
+        - asset: res/fonts/foldit/Foldit-ExtraBold.ttf
+        - asset: res/fonts/foldit/Foldit-ExtraLight.ttf
+        - asset: res/fonts/foldit/Foldit-Light.ttf
+        - asset: res/fonts/foldit/Foldit-Medium.ttf
+        - asset: res/fonts/foldit/Foldit-Regular.ttf
+        - asset: res/fonts/foldit/Foldit-SemiBold.ttf
+        - asset: res/fonts/foldit/Foldit-Thin.ttf
+    - family: InstrumentSerif
+      fonts:
+        - asset: res/fonts/instrument_serif/InstrumentSerif-Italic.ttf
+        - asset: res/fonts/instrument_serif/InstrumentSerif-Regular.ttf
+    - family: Joan
+      fonts:
+        - asset: res/fonts/joan/Joan-Regular.ttf
+
+    - family: Kings
+      fonts:
+        - asset: res/fonts/kings/Kings-Regular.ttf
+
+
+    - family: SourceCodePro
+      fonts:
+        - asset: res/fonts/source_code_pro/SourceCodePro-Black.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-BlackItalic.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-Bold.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-BoldItalic.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-ExtraBold.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-ExtraBoldItalic.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-ExtraLight.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-ExtraLightItalic.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-Italic.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-Light.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-LightItalic.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-Medium.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-Regular.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-SemiBold.ttf
+        - asset: res/fonts/source_code_pro/SourceCodePro-SemiBoldItalic.ttf
+    - family: Lexend
+      fonts:
+        - asset: res/fonts/lexend/Lexend-Black.ttf
+        - asset: res/fonts/lexend/Lexend-Bold.ttf
+        - asset: res/fonts/lexend/Lexend-ExtraBold.ttf
+        - asset: res/fonts/lexend/Lexend-ExtraLight.ttf
+        - asset: res/fonts/lexend/Lexend-Light.ttf
+        - asset: res/fonts/lexend/Lexend-Medium.ttf
+        - asset: res/fonts/lexend/Lexend-Regular.ttf
+        - asset: res/fonts/lexend/Lexend-SemiBold.ttf
+        - asset: res/fonts/lexend/Lexend-Thin.ttf
+
+    - family: Merriweather
+      fonts:
+        - asset: res/fonts/merriweather/Merriweather-Black.ttf
+        - asset: res/fonts/merriweather/Merriweather-BlackItalic.ttf
+        - asset: res/fonts/merriweather/Merriweather-Bold.ttf
+        - asset: res/fonts/merriweather/Merriweather-BoldItalic.ttf
+        - asset: res/fonts/merriweather/Merriweather-Italic.ttf
+        - asset: res/fonts/merriweather/Merriweather-Light.ttf
+        - asset: res/fonts/merriweather/Merriweather-LightItalic.ttf
+        - asset: res/fonts/merriweather/Merriweather-Regular.ttf
+
+
+
+
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
